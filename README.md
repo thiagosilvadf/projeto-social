@@ -1,0 +1,1 @@
+Projeto criado, onde existe um celular no meio da tela do computador e ao lado tem alguns botôes de redes sociais. Quando clicamos em algum dos botêos, na tela do celular é projetado a rede social a qual foi selecionada. 
